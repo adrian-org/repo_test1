@@ -5,3 +5,5 @@ jobs:
   include:
     - stage: "sleep 10"
       script: sleep 10
+    - stage: "sleep 5"
+      script: sleep 5
